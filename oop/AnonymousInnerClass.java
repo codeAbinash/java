@@ -1,5 +1,4 @@
 package oop;
-
 abstract class MyClass {
   abstract void greet(String name);
 }

@@ -1,4 +1,5 @@
-package string;
+package strings;
+
 public class StringMethods {
   public static void main(String[] args) {
     String name = "  Abinash Karmakar  ";

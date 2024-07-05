@@ -1,3 +1,5 @@
+package strings;
+
 public class StringExample {
   public static void main(String[] args) {
     String name = "John"; // String Literal Will be stored in String Pool

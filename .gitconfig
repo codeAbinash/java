@@ -1,0 +1,2 @@
+[alias]
+clean = git clean -dfX

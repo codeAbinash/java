@@ -2,6 +2,7 @@
   "files.autoSave": "afterDelay",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "cSpell.words": [
-    "javap"
+    "javap",
+    "rawtypes"
   ]
 }

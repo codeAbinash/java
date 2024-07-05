@@ -1,7 +1,7 @@
-import multithreading.SimpleMultithreading;
+import annotations.*;
 
 public class Main {
   public static void main(String[] args) {
-    SimpleMultithreading.main(args);
+    UserDefinedAnnotations.main(args);
   }
 }

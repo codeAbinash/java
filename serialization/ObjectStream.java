@@ -6,8 +6,6 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
-import javax.imageio.stream.FileImageInputStream;
-
 // It must implement Serializable interface
 // If this class have any static members, then those members will not be serialized or stored
 class Student implements Serializable {

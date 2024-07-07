@@ -1,7 +1,7 @@
-import serialization.ObjectStream;
+import datetime.*;
 
 public class Main {
   public static void main(String[] args) throws Exception {
-    ObjectStream.main(args);
+    DateTimeFormat.main(args);
   }
 }
